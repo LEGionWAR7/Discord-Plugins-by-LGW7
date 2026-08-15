@@ -1,20 +1,20 @@
 {
-    "name":  "AllPlugins",
+    "name":  "HideFrom",
     "version":  "2026.08.16.0657",
     "notes":  "Новый плагин HideFrom: уходит в невидимку, пока выбранные люди в сети.",
-    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
+    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/HideFrom/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "cf31f987b50e25fe7c1946037a637ef5e128d120c85f860c6c50756ea1666748",
-                                     "size":  56723
+                                     "sha256":  "baa181891baa65f5ec11a3aeb29e0da8e56c4914c22fee20a17918bddcc980cb",
+                                     "size":  47170
                                  },
                   "preload.js":  {
                                      "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "39fbade0f6169bcbf107bce10d53b6145ef3cddfc4db8cddd0990b1408380abe",
-                                      "size":  794747
+                                      "sha256":  "1dd436c4eaddbd5d6480a43f99654b8ed821f8c70920a628629839f638f911ce",
+                                      "size":  745117
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
