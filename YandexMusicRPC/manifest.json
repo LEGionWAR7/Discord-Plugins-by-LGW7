@@ -1,0 +1,24 @@
+{
+    "name":  "YandexMusicRPC",
+    "version":  "2026.08.15.1705",
+    "notes":  "Первая версия с самообновлением. Плагин теперь объясняет, почему не видит Яндекс.Браузер.",
+    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
+    "files":  {
+                  "patcher.js":  {
+                                     "sha256":  "94c58389882fb0cd69bb280ad153fb9865b2b8850e1cfb570e6699fc6dce5db3",
+                                     "size":  54710
+                                 },
+                  "preload.js":  {
+                                     "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
+                                     "size":  2401
+                                 },
+                  "renderer.js":  {
+                                      "sha256":  "5e25303a34f5026b90e9b78c9feb6393dfdeb37a18c2971938abe39c6a46bb2e",
+                                      "size":  764508
+                                  },
+                  "renderer.css":  {
+                                       "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
+                                       "size":  42172
+                                   }
+              }
+}

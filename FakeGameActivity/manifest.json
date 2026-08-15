@@ -1,0 +1,24 @@
+{
+    "name":  "FakeGameActivity",
+    "version":  "2026.08.15.1705",
+    "notes":  "Первая версия с самообновлением.",
+    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/FakeGameActivity/dist/",
+    "files":  {
+                  "patcher.js":  {
+                                     "sha256":  "baa181891baa65f5ec11a3aeb29e0da8e56c4914c22fee20a17918bddcc980cb",
+                                     "size":  47170
+                                 },
+                  "preload.js":  {
+                                     "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
+                                     "size":  2401
+                                 },
+                  "renderer.js":  {
+                                      "sha256":  "cd6740f4f134eb51a087d2ffdabf9eed91b11d75887f7282f50cb762857ce4cf",
+                                      "size":  763014
+                                  },
+                  "renderer.css":  {
+                                       "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
+                                       "size":  42172
+                                   }
+              }
+}
