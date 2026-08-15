@@ -1,7 +1,7 @@
 {
     "name":  "FakeGameActivity",
-    "version":  "2026.08.15.1921",
-    "notes":  "Плагины теперь видны в профиле автора.",
+    "version":  "2026.08.15.1957",
+    "notes":  "Проверка обновлений теперь раз в 30 минут, а не раз в 6 часов — полоска появляется без перезапуска.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/FakeGameActivity/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "feba5fabf9fcbbca37aaff476b29dcb50a335c67ae22226d661f8f4cf637ff06",
-                                      "size":  755915
+                                      "sha256":  "d4ad770a1da72ffdd9dde4613c31189d2649a168e793e89677aa558fc079f126",
+                                      "size":  755913
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",

@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.15.1947",
-    "notes":  "Второй тест: полоска должна вылезти сверху сама, без нажатий.",
+    "version":  "2026.08.15.1957",
+    "notes":  "Проверка обновлений теперь раз в 30 минут, а не раз в 6 часов — полоска появляется без перезапуска.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "80ca66d5d2d8fc4cd4b0fdb9a0dfc34495d17a2b099a25c3f73f9870819ea447",
-                                      "size":  752773
+                                      "sha256":  "4de12702c8cd84b9ad00d9af7875ebb8f5d835236749e1355b1745143b06f4f6",
+                                      "size":  752771
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",

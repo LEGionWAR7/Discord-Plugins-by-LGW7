@@ -1,7 +1,7 @@
 {
     "name":  "NotSlowMonitor",
-    "version":  "2026.08.15.1921",
-    "notes":  "Плагины теперь видны в профиле автора.",
+    "version":  "2026.08.15.1957",
+    "notes":  "Проверка обновлений теперь раз в 30 минут, а не раз в 6 часов — полоска появляется без перезапуска.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/NotSlowMonitor/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "04bccb9d528b4e6ef37dc09d24989100cc37588f4a2b374bf78ed8877378e9b0",
-                                      "size":  755943
+                                      "sha256":  "fe96c5ad3294e88bfe8dcb5470c024278148e5826a5868b59e89bc4e0970643e",
+                                      "size":  755941
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
