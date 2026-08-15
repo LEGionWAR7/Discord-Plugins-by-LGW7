@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.15.1844",
-    "notes":  "Убрал лишние пояснения в настройках.",
+    "version":  "2026.08.15.1915",
+    "notes":  "Аватарка автора в карточке плагина.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "81f08238769356fb01ef77e835930620ce28b2f9cbcc9c60a1ba87f1bad238d7",
-                                      "size":  752739
+                                      "sha256":  "3749e8b07c98e641898d3a61dbfc0605922ea6f4c9c20ccbe25c1ff478b9880b",
+                                      "size":  752773
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
