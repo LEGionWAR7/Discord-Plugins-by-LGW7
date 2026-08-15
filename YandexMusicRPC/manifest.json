@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.15.1937",
-    "notes":  "Проверка обновления. Если ты это читаешь в панели плагина — значит, обновление доехало само.",
+    "version":  "2026.08.15.1947",
+    "notes":  "Второй тест: полоска должна вылезти сверху сама, без нажатий.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,7 +13,7 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "af42a61cff165e33db53c8e6943ed0da7d6259713348480af2ef404be3bd7ec9",
+                                      "sha256":  "80ca66d5d2d8fc4cd4b0fdb9a0dfc34495d17a2b099a25c3f73f9870819ea447",
                                       "size":  752773
                                   },
                   "renderer.css":  {
