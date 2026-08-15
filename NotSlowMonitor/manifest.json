@@ -1,20 +1,20 @@
 {
     "name":  "NotSlowMonitor",
-    "version":  "2026.08.16.0533",
-    "notes":  "Перехват собственного ограничителя кадров Discord в главном процессе + замер кадров без фокуса.",
+    "version":  "2026.08.16.0553",
+    "notes":  "Видно, какие значения Discord просит у своего ограничителя кадров.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/NotSlowMonitor/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "0066985c3e68a2b6ca097403b2482835cc1a60bc2365901e36615bb9dff6170d",
-                                     "size":  48936
+                                     "sha256":  "0a96df5bf545cd0831b5cd3792e9e940faa4659fb7af0ac27d909d46af9e8112",
+                                     "size":  49180
                                  },
                   "preload.js":  {
                                      "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "db25be45f52189ac0d0b2031845b3560bb4ded3c261b4addfb15e887e56e1323",
-                                      "size":  758619
+                                      "sha256":  "ccae10c37cbbb912505488629e750692c77d648da6c495c1b3f92526c6706cd9",
+                                      "size":  758942
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",

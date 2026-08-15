@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.16.0533",
-    "notes":  "Перехват собственного ограничителя кадров Discord в главном процессе + замер кадров без фокуса.",
+    "version":  "2026.08.16.0553",
+    "notes":  "Видно, какие значения Discord просит у своего ограничителя кадров.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "cc173d5cd702b905eb441a5d9473b8f6697bf0cfa00c1013d7a1d15d69663f52",
-                                     "size":  56479
+                                     "sha256":  "cf31f987b50e25fe7c1946037a637ef5e128d120c85f860c6c50756ea1666748",
+                                     "size":  56723
                                  },
                   "preload.js":  {
                                      "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "1b5f735fb3a79645dca868e0f8247357b799fc34a6221dc923370d54d4fb0d38",
-                                      "size":  788639
+                                      "sha256":  "b83841dc3ed56c61dc7e8627edf0ff71fa184c89c6f840cd85c3308317134318",
+                                      "size":  788962
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
