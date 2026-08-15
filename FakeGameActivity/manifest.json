@@ -1,7 +1,7 @@
 {
     "name":  "FakeGameActivity",
-    "version":  "2026.08.15.1800",
-    "notes":  "Добавил в каждую папку готовый архив: качается одним файлом и ставится через install.bat.",
+    "version":  "2026.08.15.1844",
+    "notes":  "Убрал лишние пояснения в настройках.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/FakeGameActivity/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "fa38aaebd5d5d430b4e39685b7e95450454fa6dddded6935b35fc73f943158aa",
-                                      "size":  763014
+                                      "sha256":  "178dfd104050f489bb4572a661c2045f31983faf1a8aa12ab4dcc4c9eda597c2",
+                                      "size":  755881
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",

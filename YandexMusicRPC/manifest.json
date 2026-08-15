@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.15.1801",
-    "notes":  "Добавил в каждую папку готовый архив: качается одним файлом и ставится через install.bat.",
+    "version":  "2026.08.15.1844",
+    "notes":  "Убрал лишние пояснения в настройках.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "5f56222fe8becca6ac78604edc44e82cda9efaacbce8e476ec537fb592eb9cf2",
-                                      "size":  764508
+                                      "sha256":  "81f08238769356fb01ef77e835930620ce28b2f9cbcc9c60a1ba87f1bad238d7",
+                                      "size":  752739
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
