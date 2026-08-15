@@ -1,7 +1,7 @@
 {
     "name":  "NotSlowMonitor",
-    "version":  "2026.08.15.1705",
-    "notes":  "Первая версия с самообновлением.",
+    "version":  "2026.08.15.1800",
+    "notes":  "Добавил в каждую папку готовый архив: качается одним файлом и ставится через install.bat.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/NotSlowMonitor/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,7 +13,7 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "c7426e8b4c88d869fd55dff50055b41938517bcf1c2ac26e04adc148f51232ca",
+                                      "sha256":  "e80af676c4a53632b58d1b933369c42ff729a696b52139be23bd77f209ac03c2",
                                       "size":  763008
                                   },
                   "renderer.css":  {
