@@ -1,0 +1,24 @@
+{
+    "name":  "AllPlugins",
+    "version":  "2026.08.15.2316",
+    "notes":  "Общий набор: все три плагина сразу, обновляются вместе.",
+    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
+    "files":  {
+                  "patcher.js":  {
+                                     "sha256":  "2719e538c08424ced2920fc155ea8651cba219b14a258c9d59605d2857fa9091",
+                                     "size":  56073
+                                 },
+                  "preload.js":  {
+                                     "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
+                                     "size":  2401
+                                 },
+                  "renderer.js":  {
+                                      "sha256":  "9ea1e0b36567dd34a85953f39dd6597ec9245461557ac547cbfa3ecdcb93b306",
+                                      "size":  785961
+                                  },
+                  "renderer.css":  {
+                                       "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
+                                       "size":  42172
+                                   }
+              }
+}
