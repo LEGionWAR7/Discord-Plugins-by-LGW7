@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.15.1915",
-    "notes":  "Аватарка автора в карточке плагина.",
+    "version":  "2026.08.15.1921",
+    "notes":  "Плагины теперь видны в профиле автора.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,7 +13,7 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "3749e8b07c98e641898d3a61dbfc0605922ea6f4c9c20ccbe25c1ff478b9880b",
+                                      "sha256":  "30a7b80f223e38a27ad2dd425c4432d46bdd7e483171118d51b13e24e9be5e23",
                                       "size":  752773
                                   },
                   "renderer.css":  {

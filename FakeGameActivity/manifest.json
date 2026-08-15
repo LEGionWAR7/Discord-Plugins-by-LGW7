@@ -1,7 +1,7 @@
 {
     "name":  "FakeGameActivity",
-    "version":  "2026.08.15.1915",
-    "notes":  "Аватарка автора в карточке плагина.",
+    "version":  "2026.08.15.1921",
+    "notes":  "Плагины теперь видны в профиле автора.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/FakeGameActivity/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,7 +13,7 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "79c14b36e65d942c4c40d1693480d82414782a3f87c2c8c95ef3ccf4065f151a",
+                                      "sha256":  "feba5fabf9fcbbca37aaff476b29dcb50a335c67ae22226d661f8f4cf637ff06",
                                       "size":  755915
                                   },
                   "renderer.css":  {

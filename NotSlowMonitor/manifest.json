@@ -1,7 +1,7 @@
 {
     "name":  "NotSlowMonitor",
-    "version":  "2026.08.15.1915",
-    "notes":  "Аватарка автора в карточке плагина.",
+    "version":  "2026.08.15.1921",
+    "notes":  "Плагины теперь видны в профиле автора.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/NotSlowMonitor/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,7 +13,7 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "34f7a2ec65b8fa04801e0edfe9f561cde982f20df0f77e29db0de5f67703e916",
+                                      "sha256":  "04bccb9d528b4e6ef37dc09d24989100cc37588f4a2b374bf78ed8877378e9b0",
                                       "size":  755943
                                   },
                   "renderer.css":  {
