@@ -1,7 +1,7 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.16.0700",
-    "notes":  "HideFrom: прячется мгновенно, возвращает статус с задержкой.",
+    "version":  "2026.08.16.0736",
+    "notes":  "Статус больше не пропадает на паузе: держим последний трек, пока Windows его не отдаёт.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "5fa03dd58888e6875ae4804a58ad96c07422be06365e477bccefa6aeee27c8f4",
-                                      "size":  795299
+                                      "sha256":  "a8ca848787035d1d9263665109fabe48792e1692aa346e4691c11b810e796bbb",
+                                      "size":  796326
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
