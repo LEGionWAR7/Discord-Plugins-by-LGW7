@@ -1,7 +1,7 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.16.0736",
-    "notes":  "Статус больше не пропадает на паузе: держим последний трек, пока Windows его не отдаёт.",
+    "version":  "2026.08.17.0409",
+    "notes":  "Принудительная отрисовка больше не работает в активном окне — она отбирала кадры вместо того, чтобы добавлять.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "a8ca848787035d1d9263665109fabe48792e1692aa346e4691c11b810e796bbb",
-                                      "size":  796326
+                                      "sha256":  "d39759f78f655a630de235f65583a09a5502d3e045f953439d05d2e2ae7edae1",
+                                      "size":  795821
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",

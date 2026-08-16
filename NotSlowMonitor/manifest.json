@@ -1,7 +1,7 @@
 {
     "name":  "NotSlowMonitor",
-    "version":  "2026.08.16.0553",
-    "notes":  "Видно, какие значения Discord просит у своего ограничителя кадров.",
+    "version":  "2026.08.17.0409",
+    "notes":  "Принудительная отрисовка больше не работает в активном окне — она отбирала кадры вместо того, чтобы добавлять.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/NotSlowMonitor/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "ccae10c37cbbb912505488629e750692c77d648da6c495c1b3f92526c6706cd9",
-                                      "size":  758942
+                                      "sha256":  "53bfedba884bd6d67ae5c2be456b89bd8bce7040f75a83dc2870c91f7beca3d0",
+                                      "size":  758437
                                   },
                   "renderer.css":  {
                                        "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
