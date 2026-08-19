@@ -1,7 +1,7 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.20.0620",
-    "notes":  "Кнопка «Альбом» для треков из настоящих альбомов (не синглов). Убраны тумблеры обложки и полосы прогресса — теперь всегда.",
+    "version":  "2026.08.20.0625",
+    "notes":  "Кнопки теперь фиксированные: «Послушать трек» и «Послушать альбом». Настройки текста и вкл/выкл кнопок убраны.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "219912b51d8a8c408bb01ca9018f548c368acdee41b5c849ecc62a41a7484aac",
-                                      "size":  801898
+                                      "sha256":  "d18c518ec65f0951b50f4c81d5982a99a0d389212befe6a2eebc61ba703ac0f7",
+                                      "size":  801427
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",

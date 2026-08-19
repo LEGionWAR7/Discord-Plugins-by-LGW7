@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.20.0620",
-    "notes":  "Кнопка «Альбом» для треков из настоящих альбомов (не синглов). Убраны тумблеры обложки и полосы прогресса — теперь всегда.",
+    "version":  "2026.08.20.0625",
+    "notes":  "Кнопки теперь фиксированные: «Послушать трек» и «Послушать альбом». Настройки текста и вкл/выкл кнопок убраны.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "02fdbf659ada1c574850925995b6fa41066ce6ec73c802995b9d8368c0e7ee6a",
-                                      "size":  759091
+                                      "sha256":  "bb3de6e07fe266a7128b705afd371aec9696e1baf1c20a21dc1b78a03610bcb8",
+                                      "size":  758620
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
