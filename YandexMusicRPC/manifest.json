@@ -1,20 +1,20 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.20.0611",
-    "notes":  "Альбом теперь берётся из каталога (Deezer/iTunes): приложение Яндекса его в медиа-контролы не пишет.",
+    "version":  "2026.08.20.0620",
+    "notes":  "Кнопка «Альбом» для треков из настоящих альбомов (не синглов). Убраны тумблеры обложки и полосы прогресса — теперь всегда.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "356afd1032af5cda5539f288d0cda529167ca2d9b9d7439e3dfbbbf4b409a6c6",
-                                     "size":  56758
+                                     "sha256":  "e2d0e4890ebf5e445a3166877d678decee1a7eed687d48d74c65432b240c110b",
+                                     "size":  57024
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "07be2f8333427f11596e70ea8e7afdeee649c7e56fb6757b5b55cfca8c453913",
-                                      "size":  759054
+                                      "sha256":  "02fdbf659ada1c574850925995b6fa41066ce6ec73c802995b9d8368c0e7ee6a",
+                                      "size":  759091
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",

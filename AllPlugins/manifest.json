@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.20.0611",
-    "notes":  "Альбом теперь берётся из каталога (Deezer/iTunes): приложение Яндекса его в медиа-контролы не пишет.",
+    "version":  "2026.08.20.0620",
+    "notes":  "Кнопка «Альбом» для треков из настоящих альбомов (не синглов). Убраны тумблеры обложки и полосы прогресса — теперь всегда.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "f0840807c6f7659be338ee584eab28cc46801013537e0665ac11afea2af765fb",
-                                     "size":  58771
+                                     "sha256":  "0cbece91f9e33473bafd74c11324b427f713d021e38d728981b18737177a5d05",
+                                     "size":  59037
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "ae29a5a9d8935181d397d45f242b38cb530949ba5b98cf0747f614fa7ccf6b8d",
-                                      "size":  801861
+                                      "sha256":  "219912b51d8a8c408bb01ca9018f548c368acdee41b5c849ecc62a41a7484aac",
+                                      "size":  801898
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
