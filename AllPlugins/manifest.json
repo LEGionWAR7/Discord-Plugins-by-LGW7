@@ -1,24 +1,24 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.17.0409",
-    "notes":  "Принудительная отрисовка больше не работает в активном окне — она отбирала кадры вместо того, чтобы добавлять.",
+    "version":  "2026.08.19.1919",
+    "notes":  "В отчёт добавлены время работы, память JS-кучи и число узлов DOM — чтобы поймать причину падения FPS со временем.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "cf31f987b50e25fe7c1946037a637ef5e128d120c85f860c6c50756ea1666748",
+                                     "sha256":  "b820c47de284b694fe52338c92e60c0d65ba33613969957062abfa356d26470d",
                                      "size":  56723
                                  },
                   "preload.js":  {
-                                     "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
+                                     "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "d39759f78f655a630de235f65583a09a5502d3e045f953439d05d2e2ae7edae1",
-                                      "size":  795821
+                                      "sha256":  "a7f33e3bab22b1f40c9021453b8e167d9c4ccbb147b90d21f3bdd9487460f400",
+                                      "size":  799000
                                   },
                   "renderer.css":  {
-                                       "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
-                                       "size":  42172
+                                       "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
+                                       "size":  42178
                                    }
               }
 }
