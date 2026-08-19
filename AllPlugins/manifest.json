@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.20.0550",
-    "notes":  "Управление плеером (пауза/след/пред) в панели + альбом в статусе, авто-скрытие при AFK, чёрный список треков.",
+    "version":  "2026.08.20.0611",
+    "notes":  "Альбом теперь берётся из каталога (Deezer/iTunes): приложение Яндекса его в медиа-контролы не пишет.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "36580e9d19d55d6525bbe554559bc238890197e2d4a83e5b493a06e8ce48b7ad",
-                                     "size":  58626
+                                     "sha256":  "f0840807c6f7659be338ee584eab28cc46801013537e0665ac11afea2af765fb",
+                                     "size":  58771
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "0651f51e5d0c26cb993f51f543ba5e9614a31144ee40eeb84cea59033c036fec",
-                                      "size":  801533
+                                      "sha256":  "ae29a5a9d8935181d397d45f242b38cb530949ba5b98cf0747f614fa7ccf6b8d",
+                                      "size":  801861
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",

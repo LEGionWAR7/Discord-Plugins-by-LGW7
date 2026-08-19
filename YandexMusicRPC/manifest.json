@@ -1,20 +1,20 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.20.0550",
-    "notes":  "Управление плеером (пауза/след/пред) в панели + альбом в статусе, авто-скрытие при AFK, чёрный список треков.",
+    "version":  "2026.08.20.0611",
+    "notes":  "Альбом теперь берётся из каталога (Deezer/iTunes): приложение Яндекса его в медиа-контролы не пишет.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "d13c205423430f3fb03424afad2cdbeeafd05f27d7975a263422ade20341e8af",
-                                     "size":  56613
+                                     "sha256":  "356afd1032af5cda5539f288d0cda529167ca2d9b9d7439e3dfbbbf4b409a6c6",
+                                     "size":  56758
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "32d341be96eedd99ad776eaf9a8f64aca664560d26b89a5807db59817043ee72",
-                                      "size":  758726
+                                      "sha256":  "07be2f8333427f11596e70ea8e7afdeee649c7e56fb6757b5b55cfca8c453913",
+                                      "size":  759054
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
