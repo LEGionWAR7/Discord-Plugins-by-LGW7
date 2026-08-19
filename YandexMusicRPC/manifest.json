@@ -1,24 +1,24 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.16.0736",
-    "notes":  "Статус больше не пропадает на паузе: держим последний трек, пока Windows его не отдаёт.",
+    "version":  "2026.08.20.0550",
+    "notes":  "Управление плеером (пауза/след/пред) в панели + альбом в статусе, авто-скрытие при AFK, чёрный список треков.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "94c58389882fb0cd69bb280ad153fb9865b2b8850e1cfb570e6699fc6dce5db3",
-                                     "size":  54710
+                                     "sha256":  "d13c205423430f3fb03424afad2cdbeeafd05f27d7975a263422ade20341e8af",
+                                     "size":  56613
                                  },
                   "preload.js":  {
-                                     "sha256":  "95d05471ef539844793fede74b14658d659cc1412c042bd4d3cf264016175ca3",
+                                     "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "82e07225338c98022e4ed64ae1a35c340bdfa6d12f9dd5a558f9993c13ce2a87",
-                                      "size":  753798
+                                      "sha256":  "32d341be96eedd99ad776eaf9a8f64aca664560d26b89a5807db59817043ee72",
+                                      "size":  758726
                                   },
                   "renderer.css":  {
-                                       "sha256":  "70b8e33a419f987e015bdaedbe7a8c364792a98fc18578235ff3012b262e81e2",
-                                       "size":  42172
+                                       "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
+                                       "size":  42178
                                    }
               }
 }
