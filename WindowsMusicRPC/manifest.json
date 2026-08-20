@@ -1,20 +1,20 @@
 {
-    "name":  "AllPlugins",
+    "name":  "WindowsMusicRPC",
     "version":  "2026.08.20.1706",
     "notes":  "Плагин переименован из YandexMusicRPC в WindowsMusicRPC (оформление прежнее).",
-    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
+    "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/WindowsMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "5fe7547c7fd349a9503c306aa72e48dab2bd627c4c458708b909de039f6f0218",
-                                     "size":  59038
+                                     "sha256":  "95e40352293bce95371405303ba615adf3f4899d73d32c263873a9b699f297b7",
+                                     "size":  57025
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "2854746f47576407574210a117fd60b3c0bf9528595aa5d6e8b7dc7ba42f01c1",
-                                      "size":  802168
+                                      "sha256":  "a47c9a50f86ebbf98743ccb16cf45ef465c193792a795ca3daca08f4a97a494e",
+                                      "size":  759361
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
