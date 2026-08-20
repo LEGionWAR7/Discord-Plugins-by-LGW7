@@ -1,7 +1,7 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.20.0625",
-    "notes":  "Кнопки теперь фиксированные: «Послушать трек» и «Послушать альбом». Настройки текста и вкл/выкл кнопок убраны.",
+    "version":  "2026.08.20.1619",
+    "notes":  "Не берёт за музыку лончеры/игры: Riot Client исключён, и любой источник можно исключить кнопкой.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "d18c518ec65f0951b50f4c81d5982a99a0d389212befe6a2eebc61ba703ac0f7",
-                                      "size":  801427
+                                      "sha256":  "19a81e9bdbee7716786280857f47db416d1663ffe0f8d4dfe392723fde601d86",
+                                      "size":  802151
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",

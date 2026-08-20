@@ -1,7 +1,7 @@
 {
     "name":  "YandexMusicRPC",
-    "version":  "2026.08.20.0625",
-    "notes":  "Кнопки теперь фиксированные: «Послушать трек» и «Послушать альбом». Настройки текста и вкл/выкл кнопок убраны.",
+    "version":  "2026.08.20.1619",
+    "notes":  "Не берёт за музыку лончеры/игры: Riot Client исключён, и любой источник можно исключить кнопкой.",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/YandexMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "bb3de6e07fe266a7128b705afd371aec9696e1baf1c20a21dc1b78a03610bcb8",
-                                      "size":  758620
+                                      "sha256":  "c50ab406717dde901c418ec17230d2ddfce1510dc42732279dcb8ba2f0fb7130",
+                                      "size":  759344
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
