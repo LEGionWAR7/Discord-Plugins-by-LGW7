@@ -1,20 +1,20 @@
 {
     "name":  "WindowsMusicRPC",
-    "version":  "2026.08.21.1738",
-    "notes":  "WindowsMusicRPC: вход в Яндекс одной кнопкой (токен сам), подпись \u0027В избранном\u0027 при наведении на обложку, тумблер \u0027название трека вместо Яндекс Музыку\u0027",
+    "version":  "2026.08.21.1747",
+    "notes":  "WindowsMusicRPC: сердечко убрано из названия (теперь \u0027В избранном ❤️\u0027 в подписи к обложке справа); обложка не перезагружается на перемотке; при токене обложка/альбом/избранное читаются напрямую из Яндекса",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/WindowsMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "045465da4d7b16977c991c55d5df8c0dd7d3ea468b58726289947f1c9dd715b0",
-                                     "size":  59112
+                                     "sha256":  "ed6d4da525eda3dd7731ca77d2102b30d81e40d634b516cf4687d6bd2cc351cc",
+                                     "size":  59406
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "caade1f37700c3a3a13075666b4b6348e2a4e0ec8f44f78ab2a78ceec1bd0f8e",
-                                      "size":  764483
+                                      "sha256":  "24a1ef44042d81d882a62e08e4f408127a228eab391fb4619e410a89938e72c4",
+                                      "size":  764677
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
