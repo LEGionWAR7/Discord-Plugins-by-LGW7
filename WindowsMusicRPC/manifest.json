@@ -1,7 +1,7 @@
 {
     "name":  "WindowsMusicRPC",
-    "version":  "2026.08.21.1803",
-    "notes":  "WindowsMusicRPC: при наведении на обложку у избранного трека показывается просто \u0027В избранном\u0027; верх карточки без сердечка",
+    "version":  "2026.08.21.1806",
+    "notes":  "WindowsMusicRPC: сердечко избранного вернулось в имя — видно на компактной карточке и в шапке \u0027Слушает\u0027; в строке трека и деталях чисто",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/WindowsMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "ba949f2e650745e9cd7d42b9b305e20006f3a3226d1e2770df797927728f109e",
-                                      "size":  764727
+                                      "sha256":  "a3db6f5f37c4876ac7213f7c56c58d5527714b54cf1ecd9a4519130f1412fb6e",
+                                      "size":  764812
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
