@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.21.1806",
-    "notes":  "WindowsMusicRPC: сердечко избранного вернулось в имя — видно на компактной карточке и в шапке \u0027Слушает\u0027; в строке трека и деталях чисто",
+    "version":  "2026.08.21.1815",
+    "notes":  "WindowsMusicRPC: экспериментальный источник \u0027Аккаунт Яндекса\u0027 — читает играющий трек из аккаунта (для Яндекс.Браузера)",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "ff373d192d3ec954f36905a907492cc339671f009a184f598270b8947ace3b7f",
-                                     "size":  61419
+                                     "sha256":  "f28e93e42a0e72c27f801c467aeea094914221c2e077676de22d2e919188bcb3",
+                                     "size":  62599
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "1fd7ae555420f596923fb91ef8817f78b4b8cbd358e090907774c632c1e84eb9",
-                                      "size":  807619
+                                      "sha256":  "d5f8c0144b6847a2adc3cc0259bae63b65d5662fd57b9f5b5dbddd15fe432a3f",
+                                      "size":  808748
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
