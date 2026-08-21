@@ -1,7 +1,7 @@
 {
     "name":  "WindowsMusicRPC",
-    "version":  "2026.08.20.1706",
-    "notes":  "Плагин переименован из YandexMusicRPC в WindowsMusicRPC (оформление прежнее).",
+    "version":  "2026.08.21.1635",
+    "notes":  "Убрано дублирование названия трека под исполнителем (подпись к обложке только для настоящего альбома).",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/WindowsMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "a47c9a50f86ebbf98743ccb16cf45ef465c193792a795ca3daca08f4a97a494e",
-                                      "size":  759361
+                                      "sha256":  "ac44ea4d09b6871df975ce91ad8c8280092b5265412af09a0e9899bf0aa6e399",
+                                      "size":  759379
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
