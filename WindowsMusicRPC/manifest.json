@@ -1,7 +1,7 @@
 {
     "name":  "WindowsMusicRPC",
-    "version":  "2026.08.21.1702",
-    "notes":  "WindowsMusicRPC: сердечко у трека, если он в избранном Яндекс Музыки (нужен токен, включается в настройках)",
+    "version":  "2026.08.21.1713",
+    "notes":  "WindowsMusicRPC: альбом больше не двоится (убрал подпись к обложке, когда альбом уже в строке)",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/WindowsMusicRPC/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "11cf7aa4a669788a3e83ba62cfd2e25672a0e69d02fc21befbffd3eda2607fbb",
-                                      "size":  762138
+                                      "sha256":  "cb5ef8399178812e389f8e48c1fddc7265982f3432efac73e1890a126283a9b6",
+                                      "size":  762159
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
