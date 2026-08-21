@@ -1,7 +1,7 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.21.1747",
-    "notes":  "WindowsMusicRPC: сердечко убрано из названия (теперь \u0027В избранном ❤️\u0027 в подписи к обложке справа); обложка не перезагружается на перемотке; при токене обложка/альбом/избранное читаются напрямую из Яндекса",
+    "version":  "2026.08.21.1752",
+    "notes":  "WindowsMusicRPC: у трека из избранного теперь сердечко справа прямо в строке активности",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "4f4d9ad1235b290640f8077a321082921128c5254fe22c80efa427bb91230785",
-                                      "size":  807484
+                                      "sha256":  "146d38a71cf638aa33fd1dd90671f8582c5f473e2ea5ec10f5c7bd48766e161a",
+                                      "size":  807532
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
