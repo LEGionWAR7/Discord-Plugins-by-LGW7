@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.21.1635",
-    "notes":  "Убрано дублирование названия трека под исполнителем (подпись к обложке только для настоящего альбома).",
+    "version":  "2026.08.21.1702",
+    "notes":  "WindowsMusicRPC: сердечко у трека, если он в избранном Яндекс Музыки (нужен токен, включается в настройках)",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "5fe7547c7fd349a9503c306aa72e48dab2bd627c4c458708b909de039f6f0218",
-                                     "size":  59038
+                                     "sha256":  "bb593f504e2792d818fa4273d307065434dcda2df5ae2c9180ce4a559ad82563",
+                                     "size":  60281
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "7db9808640fc33e6f6c47e704dfaa62551345d3a6074d070de10e1dc4d8d60b4",
-                                      "size":  802186
+                                      "sha256":  "abba31ebd34eb283eba32c94b1b248a91659ced5de2b9725589e2925c0487fc5",
+                                      "size":  804945
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
