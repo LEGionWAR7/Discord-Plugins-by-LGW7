@@ -1,7 +1,7 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.21.1756",
-    "notes":  "WindowsMusicRPC: убрал сердечки у названия сверху и у трека; при наведении на обложку снова название трека (плюс \u0027В избранном\u0027)",
+    "version":  "2026.08.21.1803",
+    "notes":  "WindowsMusicRPC: при наведении на обложку у избранного трека показывается просто \u0027В избранном\u0027; верх карточки без сердечка",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
@@ -13,8 +13,8 @@
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "bc17cc962390cd0d533d31cd7596e684078b042695407e6c88e94d3bd3afbe48",
-                                      "size":  807523
+                                      "sha256":  "873bba9f3410fc15caeb015784d6a39abe91aed514f14dd134a29c09a4f3b937",
+                                      "size":  807534
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
