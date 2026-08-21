@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.21.1713",
-    "notes":  "WindowsMusicRPC: альбом больше не двоится (убрал подпись к обложке, когда альбом уже в строке)",
+    "version":  "2026.08.21.1738",
+    "notes":  "WindowsMusicRPC: вход в Яндекс одной кнопкой (токен сам), подпись \u0027В избранном\u0027 при наведении на обложку, тумблер \u0027название трека вместо Яндекс Музыку\u0027",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "bb593f504e2792d818fa4273d307065434dcda2df5ae2c9180ce4a559ad82563",
-                                     "size":  60281
+                                     "sha256":  "a402066d9df92b9ecb4dc4e748f2ef8f3a39eb8c9b12200f665e72fedaf6eadf",
+                                     "size":  61125
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "b3e75be959b809642784cfec61859fae8c3bb48258f3b6ab1057ad8b2119985e",
-                                      "size":  804966
+                                      "sha256":  "33477933fdfaaf31c5b7a2c678b263ed55d05023f53829f88dd3b826a3fbb764",
+                                      "size":  807290
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
