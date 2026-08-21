@@ -1,20 +1,20 @@
 {
     "name":  "AllPlugins",
-    "version":  "2026.08.21.1828",
-    "notes":  "WindowsMusicRPC: режим \u0027Расширение браузера\u0027 — читает Яндекс Музыку прямо со страницы (для Яндекс.Браузера), с обложкой и прогрессом; расширение ставится кнопкой из панели",
+    "version":  "2026.08.21.1841",
+    "notes":  "WindowsMusicRPC: кнопка \u0027Установить\u0027 теперь ещё и открывает страницу расширений Яндекс.Браузера",
     "baseUrl":  "https://raw.githubusercontent.com/LEGionWAR7/Discord-Plugins-by-LGW7/main/AllPlugins/dist/",
     "files":  {
                   "patcher.js":  {
-                                     "sha256":  "e18352aaadd08882af9e7f408f65c3f153ce5b7ba48e6bc1197133cba45512b2",
-                                     "size":  66581
+                                     "sha256":  "d6caef2ee98e04dca5bca4e32add27b171bd9ff08c19f427f4f92d797bb7345a",
+                                     "size":  67032
                                  },
                   "preload.js":  {
                                      "sha256":  "e88c1f207d7c9cd1633d800a93bb8c74b85fc5d54547a13d41b0f8fd1bfe840e",
                                      "size":  2401
                                  },
                   "renderer.js":  {
-                                      "sha256":  "0eae1492f1535fdc52b735a4e565d29e692112e1fec9df4ef1defe9b4ec90677",
-                                      "size":  812456
+                                      "sha256":  "2c15f343eb16ebed48e6cb0386830ddbe7ae92ba4a11a32903a6a7fed039bdae",
+                                      "size":  812993
                                   },
                   "renderer.css":  {
                                        "sha256":  "96411110eb3ad1fafeeff831a02a09305ec687318be3d311e710cebb9ca78fad",
